@@ -1,6 +1,6 @@
-name: Khyam
+name: princemd
 services:
-  - name: Khyam
+  - name: prince-md-service
     type: web
     ports:
       - 3000
