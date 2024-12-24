@@ -1,6 +1,6 @@
-name: princemd
+name: Khyam
 services:
-  - name: prince-md-service
+  - name: Khyam
     type: web
     ports:
       - 3000
@@ -10,24 +10,24 @@ services:
       type: docker
       dockerfile: ./Dockerfile
     env:
-      - OWNERS=923092668108;❣️DASTAGEER
+      - OWNERS=923079290939;❣️Khyam
       - MODE=public
       - PREFIX=""
-      - antidelete=false
-      - ANTI_LINK=false
+      - antidelete=true
+      - ANTI_LINK=true
       - AUTOREAD=false
-      - VIEWONCE=false
+      - VIEWONCE=true
       - STATUS_REPLY=false
       - STATUSLIKES=true
       - STATUS_MSG="Your Status has been seen by Prince bot"
-      - BOT_NAME=PRINCE-MD
-      - PACK_NAME="Princebot🎗️❣️"
-      - DL_MSG="_📥-------- *DOWNLOADED SUCCESSFULLY* --------📥_"
-      - STATUSVIEW=false
-      - Status_Saver=false
+      - BOT_NAME=Khyam
+      - PACK_NAME="Khyam🎗️❣️"
+      - DL_MSG="_📥-------- *Khyam* --------📥_"
+      - STATUSVIEW=true
+      - Status_Saver=true
       - REJECTSCALLS=false
-      - AutoReaction=false
-      - SESSION_ID="" # Add your session ID here
+      - AutoReaction=true
+      - SESSION_ID="eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVU5aSHBWbm9id2NyV1B0MG9ENURPTEVpdXR0SG1uY0dDekdvblMrTWVITT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUXlLdVFrMVQ2cVhZN2F5VzdHTmVVam9EOEFHWEJQT29JdVl1THUyMUR3ND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFRktFVWZuVGp1Rmc5UGtUcmpFeXFxSEZQeGw5bFAyNmxNM1lmczcxdVg0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDaGZZZ3FsNFBYdWZOeW44Z2NmNTZhZ09jSHJHekhKMkhNckcvNzZEbFYwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNMZ3RJcUduZkcrUEFQZVBQb3lhL2I4bUxSTEZPcXNOT3VoM0pIdDBsV3c9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImFFdVVTT0h3czh1U3lZM1VzeklreThLOTkxT05RS0VNeDZ0TzFydnlneEU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0o3c3JMVEJncVovWThQUnFxOVIzcFprS0VhbzNEZHRiSGo0ZTZmUzBsUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiM0dLMm5zbXE5cDVYTU9ZaXNuOGs1eGVXc3IxM3g0bUU0dWFHYTRHcXdYTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InV4Y3pLeEo3disxUzhaM3gyK2VpTzdiWUlveWxBUWRMcmgvcDA4MXNULzluc1BtZHBxSS9DeW9BNFpGcW5BNFJNQTlhaVYwVzQwQUZPVUYyT1NGcUFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjE1LCJhZHZTZWNyZXRLZXkiOiI1TWY1b1krRjc0WUhBTkJIcklOcURWV2ZEVkNMeS9RL0xoNXNsVVZOdG40PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJrek5zZ0dZclFQR0YwRGFSdS1VLVF3IiwicGhvbmVJZCI6IjE2YjE0ZjJmLTc3ZjgtNDg0MS05YWU0LWViNWViMTdiOTM3YiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuNUtZQm5icWJ1OTVmRkRMbzZ6cGdlS3VIUm89In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImJOeGdxcHA0azBaSHdEWXlPUGl5N0Y0QnAzND0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0pmNmpmQUNFTlBXcWJzR0dBUWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InlTanNYdzNnQlRkMVhHUldOMU1TSnZNOVdBNVhqeVhyNUNuSUNzbmNFRUk9IiwiYWNjb3VudFNpZ25hdHVyZSI6Iis2ajFIU1VaSTFVN2gwblZWR1pCYmkyZTd1S3FmU0FOR3ZwNUxyTFdRL1dKOEs1YzhlS1dnRXVrMW9WQmNYOU5hcnVNbVR4SjBYc2o3cHNreWM4ZkNRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJLL3R0NDZFK3lKYmtYNUQ0V0JsRGk0dC9XMEs1OWFXaVlISnlXTFZHSnF1QkJwaWwwZFlQYU5XZ3d0UTBVQjhvajNyNTlNUTNDWXdjUHVjQ2VndFhEZz09In0sIm1lIjp7ImlkIjoiOTIzMDc5MjkwOTM5OjMzQHMud2hhdHNhcHAubmV0In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzA3OTI5MDkzOTozM0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJja283RjhONEFVM2RWeGtWamRURWlielBWZ09WNDhsNitRcHlBckozQkJDIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzM1MDI3NTU0LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQURCdyJ9" # Add your session ID here
     regions:
       - fra
       - sin
